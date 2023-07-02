@@ -6,3 +6,5 @@ This repository contains all the web pages that i have developed as part of assi
 2) season switcher :[ website Link](http://bvjavascript02.ccbp.tech)
 3) tip Calculator :[website link](http://bvjavascript03.ccbp.tech)
 4) sizing an image :[website link](http://bvjavascript04.ccbp.tech)
+5) sizing an image :[website link](http://bvjavascript05.ccbp.tech)
+
