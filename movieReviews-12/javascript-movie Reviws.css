@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.title {
+    margin-bottom: 0px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #7b8794;
+}
+
+.title-input {
+    padding: 5px;
+    color: #2d3a35;
+    width: 100%;
+    font-weight: 500;
+    height: 40px;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: #cbd2d9;
+    border-style: solid;
+}
+
+.textarea-input {
+    padding: 5px;
+    color: #2d3a35;
+    width: 100%;
+    border-width: 1px;
+    font-family: "Roboto";
+    border-color: #cbd2d9;
+    border-style: solid;
+
+}
+
+.main-heading {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+    color: #2d3a35;
+}
+
+.movie-name {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 800;
+
+}
