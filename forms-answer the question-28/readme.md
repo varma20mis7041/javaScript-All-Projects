@@ -6,7 +6,7 @@ Add an id questionsForm to the HTML form element
 Add the ids cityHyderabad, cityChennai, cityDelhi and cityMumbai to the HTML input radio elements
 
 
-By following the above instructions, achieve the given functionality.
+By following the above instructions, achieve the given functionality
 
 When the HTML button element with the id submitBtn is clicked or the HTML form element with the id questionsForm is submitted,
 If no option is selected, then the HTML paragraph element with the id resultMsg should have Please select the answer.
