@@ -1,4 +1,5 @@
 let skillsContainer = document.getElementById("skillsContainer");
+skillContainer.classList.add("bg-container");
 //HTML heading element creation
 let h1element = document.createElement("h1");
 h1element.textContent = "Mark your Skills";
