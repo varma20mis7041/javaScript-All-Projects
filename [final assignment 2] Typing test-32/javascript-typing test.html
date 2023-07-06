@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="d-none mt-5" id="spinner">
+        <div class="d-flex justify-content-center">
+            <div class="spinner-border" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+        </div>
+    </div>
+    <div class="bg_container " id="speedTypingTest">
+        <h1 class="main_heading">Speed Typing Test</h1>
+        <p class="para">On your fingers lets set Go!</p>
+        <div class="d-flex flex-row">
+            <img class="image" src="https://assets.ccbp.in/frontend/dynamic-webapps/clock-img.png" alt="" />
+            <div>
+                <p class="timer_para" id="timer"><span id="timerText">0</span> seconds</p>
+            </div>
+        </div>
+        <div id="quotTextContainer" class="p-3 quat_con">
+            <p class="quoat_text" id="quoteDisplay"></p>
+            <div class="">
+                <textarea placeholder="Type here!!" class="form-control" name="" id="quoteInput" rows="4" cols="20"></textarea>
+            </div>
+
+        </div>
+        <p id="result" class="result_para"></p>
+        <button id="submitBtn" class="btn btn-primary mt-3">Submit</button>
+        <button id="resetBtn" class="btn btn-danger mt-3">Reset</button>
+    </div>
+
+    <div class="last-container">
+        <p>Developed by @Bhargav varma | Developed date : 12 jan 2023 | contact : bhargav.coding@gmail.com </p>
+    </div>
+</body>
+
+</html>
