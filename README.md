@@ -1,5 +1,6 @@
 # javaScript-All-Projects
-This repository contains all the web pages that i have developed as part of assignments in the process of learning JAVASCRIPT
+This repository contains all the web pages that i have developed as part of assignments in the process of learning JAVASCRIPT.
+NOTE:If you find any bugs or any suggestions please let me know.
 
 
 1) traffic light :[ website Link](http://bvjavascript01.ccbp.tech)
@@ -9,4 +10,29 @@ This repository contains all the web pages that i have developed as part of assi
 5) Addition game :[website link](http://bvjavascript05.ccbp.tech)
 6) Button maker :[website link](http://bvjavascript06.ccbp.tech)
 7) tabs switcher :[website link](http://bvjavascript07.ccbp.tech)
-8) domUserProfile :[website link](http://bvjavascript07.ccbp.tech)
+8) domUserProfile :[website link](http://bvjavascript08.ccbp.tech)
+9) domRecipePage :[website link](http://bvjavascript09.ccbp.tech)
+10) domMarkMySkill :[website link](http://bvjavascript10.ccbp.tech)
+11) domOrderedItems :[website link](http://bvjavascript11.ccbp.tech)
+12) movie reviews :[website link](http://bvjavascript12.ccbp.tech)
+13) splice playground :[website link](http://bvjavascript13.ccbp.tech)
+14) find index :[website link](http://bvjavascript14.ccbp.tech)
+15) local storage practice :[website link](http://bvjavascript15.ccbp.tech)
+16) word cloud :[website link](http://bvjavascript16.ccbp.tech)
+17) todos application[medium] :[website link](http://bvjavascript17.ccbp.tech)
+18) time bomb :[website link](http://bvjavascript18.ccbp.tech)
+19) peace timer :[website link](http://bvjavascript19.ccbp.tech)
+20) theme switcher :[website link](http://bvjavascript20.ccbp.tech)
+21) time converter [assignment 1] :[website link](http://bvjavascript21.ccbp.tech)
+22) random joke :[website link](http://bvjavascript22.ccbp.tech)
+23) Wikipedia search application :[website link](http://bvjavascript23.ccbp.tech)
+24) population search application :[website link](http://bvjavascript24.ccbp.tech)
+25) fact about entered number :[website link](http://bvjavascript25.ccbp.tech)
+26) forms-update password :[website link](http://bvjavascript26.ccbp.tech)
+27) forms-select your pet:[website link](http://bvjavascript27.ccbp.tech)
+28) forms-answer the question  :[website link](http://bvjavascript28.ccbp.tech)
+29) forms-go rest console[medium] :[website link](http://bvjavascript29.ccbp.tech)
+30) forms-add user[medium]:[website link](http://bvjavascript30.ccbp.tech)
+31) bookmark maker [final assignment 1] :[website link](http://bvjavascript31.ccbp.tech)
+32) speed typing test [final assignment 2] :[website link](http://bvjavascript32.ccbp.tech)
+33) library management[final assignment 3] :[website link](http://bvjavascript33.ccbp.tech)
