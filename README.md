@@ -1,5 +1,5 @@
 # javaScript-All-Projects
-This repository contains all the web pages that i have developed as part of assignments in the process of learning JAVASCRIPT.
+This repository contains all the web pages that i have developed as part of assignments in the process of learning Javascript.
 NOTE:If you find any bugs or any suggestions please let me know.
 
 
